@@ -11,12 +11,12 @@ Connecting to the server gives us:
 ```
 The proof of work is disabled, so we don't need to worry about that for this challenge. Below,
 we can send Python code and end that code with `--END`.
-However, trying to some test code,
+However, trying some test code,
 ```python
 print(1)
 --END
 ```
-gives us
+throws an error
 ```
 ERROR: Banned statement <ast.Call object at 0x7f55d45b31f0>
 ```
@@ -69,7 +69,7 @@ Python code line by line, compiles the code into an AST, performs some verificat
 then finally executes the code if the function passes.
 
 From before, we know our `print(1)` does not pass the verification, so let's try 
-and figure out exactly how the code works. First, we need to talk about AST.
+and figure out exactly how the code works. First, we need to talk about ASTs.
 
 ## AST
 ASTs, or Abstract Syntax Trees, are a tree representation of the code in a program.
@@ -122,7 +122,8 @@ As long as the AST does not see the code as a function call, we can pretty much
 do whatever we want. 
 
 ## My solution
-My solution is partly based off the solution to [`paas-v2` from HSCTF 9](https://github.com/hsncsclub/hsctf-9-challenges/tree/main/misc/paas-v2). That solution manipulates the builtin license 
+My solution is partly based off the solution to [`paas-v2` from HSCTF 9](https://github.com/hsncsclub/hsctf-9-challenges/tree/main/misc/paas-v2).
+That solution manipulates the builtin license 
 to read from an arbitrary file. I won't go over it too much in detail as I will just 
 explain it with the rest of my solution.
 ```python
