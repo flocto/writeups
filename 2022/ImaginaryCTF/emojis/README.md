@@ -183,6 +183,6 @@ ictf{enc0ding_is_n0t_encrypti0n_1b2e0d43}
 If you want to run the program yourself without compiling, you have to download both [REALSOLVE](REALSOLVE) and [REALSOLVE.o](REALSOLVE.o)
 
 # Conclusion
-Cool basic challenge, and I totally did not learn an esolang to correctly solve it.
+Cool basic challenge, and I totally did not learn an esolang to "correctly" solve it.
 
 Thanks for reading!
