@@ -10,5 +10,5 @@ Feel free to submit a pull request if you feel a part of my writeups are wrong (
   - emojis
   - neoanno
   - cbc
-  - roocookie
+  - smoll :cry:
   - maas
