@@ -32,7 +32,7 @@ Therefore :-1: must be a 0.
 
 # Solution
 All we have to do now is properly translate each bit, then converts those bits into bytes/plaintext, and we should have the flag!
-```
+```python
 uniq = set()
 with open("emojis.txt", "rb") as f:
     emojis = f.read().decode("utf-8")
