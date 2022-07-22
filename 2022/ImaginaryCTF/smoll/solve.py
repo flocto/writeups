@@ -1,0 +1,51 @@
+# partially stolen from https://ctftime.org/writeup/32914
+from gmpy2 import fac
+from math import gcd
+from Crypto.Util.number import *
+# from sage.all import factor, factorial
+
+n = 13499674168194561466922316170242276798504319181439855249990301432638272860625833163910240845751072537454409673251895471438416265237739552031051231793428184850123919306354002012853393046964765903473183152496753902632017353507140401241943223024609065186313736615344552390240803401818454235028841174032276853980750514304794215328089
+c = 12788784649128212003443801911238808677531529190358823987334139319133754409389076097878414688640165839022887582926546173865855012998136944892452542475239921395969959310532820340139252675765294080402729272319702232876148895288145134547288146650876233255475567026292174825779608187676620580631055656699361300542021447857973327523254
+
+a = 2
+# 20 bits of length
+l = 2 ** 20
+r = 2 ** 22
+B = (l + r) // 2
+   
+gcd_value = 1
+while True:
+    B = (l + r) // 2
+    print(B, l, r)
+    b = fac(B)
+    
+    tmp1 = n
+    tmp2 = pow(a, b, n) - 1
+    gcd_value = gcd(tmp1, tmp2)
+
+    print("n" if gcd_value == n else gcd_value)
+    if gcd_value == 1:
+        l = B
+    elif gcd_value == n:
+        r = B
+    else:
+        break
+print(f"[+] p factor : {gcd_value}")
+
+p = gcd_value
+q = n // p
+e = 0x10001
+
+print(f"[+] q factor : {q}")
+
+common = gcd(p - 1, q - 1) # not coprime (other than 2 obviously)
+
+phi = (p-1)*(q-1)
+d = inverse(e, phi)
+
+m = pow(c, d, n)
+
+flag = long_to_bytes(m)
+
+print(flag)
+# ictf{wh4t_1f_w3_sh4r3d_0ur_l4rge$t_fact0r_jk_unl3ss??}
