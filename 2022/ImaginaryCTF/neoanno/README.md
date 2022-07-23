@@ -53,6 +53,7 @@ the computer can't answer with December 31st. With a response of December 30th, 
 
 We can map out this logic with `win` and `lose` states. December 31st is the base `win` state, and we just saw that November 30th is a `win` state while 
 December 30th is a `lose` state.
+
 ![Map of win-lose states](winlose.png)
 
 But what comes before November 30th?
@@ -72,6 +73,7 @@ the second case allows us to go to the associated winning state in that month, w
 There's just one problem. What happens if the computer starts with January 20th?  In that case, no matter what we respond with, the computer can always pick a winning 
 state. If we choose a different month, the computer just picks the associated winning day on that month. If we choose a different day, the computer again
 chooses the winning month for that day. Unfortunately, there is no way to win if the computer plays optimally from the start.
+
 ![We always lose](alwayslose.png)
 
 ## The End.

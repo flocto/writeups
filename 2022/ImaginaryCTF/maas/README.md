@@ -8,6 +8,7 @@
 Let's take a look at the zip first.
 
 ![Image of files inside maas.zip](images/files.png)
+
 We see what appears to be a standard web app created in python. Let's take a look at app.py as that's probably where 
 our flag will be shown and where our vulnerability will be.
 
