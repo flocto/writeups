@@ -156,6 +156,8 @@ While browsing through the uuid module, I also saw this section in the UUID clas
 This sparked another idea in my head...
 
 ## Binary Search 2: Electric Boogaloo
+<sub> I hope you read [smoll](../smoll/README.md) first...</sub>
+
 Rather than reverse engineering the pretty simple uuid1, I wanted to search for the correct time using binary search.
 
 We could generate a uuid with a given time using the fixed clock_seq and node from the admin uuid, then compare it to the admin uuid. If
