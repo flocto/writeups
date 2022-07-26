@@ -123,6 +123,13 @@ Obviously, an inefficient function also takes a relatively long time to compute.
 
 This means that when we input a password, if this function ever gets called, we should see a significant increase in the time it takes 
 for the server to respond.
+## Attack
+We can utilize something called a timing attack. When a character is decrypted using the RSA, it takes a really long time. 
+If the character matches, then the next character will also take a long time to decrypt. 
+
+This means for each position in the password, we can try every single possible character and 
+find the one which takes the longest for the server to return a response, meaning that character is correct and the next one
+was decrypted (this is what increases the time).
 
 ## Hindrance
 There is just a small little bit before we go implementing our timing attack exploit. 
