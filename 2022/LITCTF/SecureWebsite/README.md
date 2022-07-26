@@ -124,7 +124,7 @@ Obviously, an inefficient function also takes a relatively long time to compute.
 This means that when we input a password, if this function ever gets called, we should see a significant increase in the time it takes 
 for the server to respond.
 
-## Caveat
+## Hindrance
 There is just a small little bit before we go implementing our timing attack exploit. 
 ```js
     if(arr.length != password.length) return false;
