@@ -20,7 +20,7 @@ for i in range(10):
     time.sleep(2)
     code = open("out.py","r").read()
     lines = code.split("\n")
-    comp = compile(code, 'code', 'exec')
+    # comp = compile(code, 'code', 'exec')
     # find function labeled X56y3
     f = 0
     for line in lines:
