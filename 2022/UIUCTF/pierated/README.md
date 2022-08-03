@@ -45,7 +45,7 @@ You can find out more on their [documentation site.](https://www.dangermouse.net
 Luckily, there were also some helpful tools for Piet on the site. I decided to use a decompiler/compiler called repiet.
 
 ## repiet
-(Repiet)[https://github.com/boothby/repiet] is a 'recompiler' for Piet, and it pretty much saved me on this challenge. 
+[Repiet](https://github.com/boothby/repiet) is a 'recompiler' for Piet, and it pretty much saved me on this challenge. 
 It can be installed via pip, and run directly from the command line.
 ```
 usage: repiet [-h] [-o OUTPUT] [-b {c,c++,piet,python,repiet}] [-O OPTIMIZE] [-x] [--codel_size CODEL_SIZE] source
