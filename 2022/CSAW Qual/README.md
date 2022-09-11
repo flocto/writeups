@@ -7,11 +7,12 @@ I ended up solving at least two challenges from each category except pwn (for ob
 but most of my efforts were spent on misc, rev, and crypto.
 
 (ended up solving all crypto challs which is the first time I've solved everything in one category!)
-(there's still an embargo currently but writeups will be released after that ends)
+
 
 ---
 Anyways, I decided to write a good mix of writeups to hopefully help beginners understand some of the challenges.
+(there's still an embargo currently but writeups will be released after that ends)
 
-I was going to write an emojicode writeup for gotta crack them all but got too lazy as well :p
+I was also going to write an emojicode writeup for gotta crack them all but got too lazy :p
 
 Thanks for reading!
