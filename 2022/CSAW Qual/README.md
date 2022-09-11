@@ -11,4 +11,6 @@ but most of my efforts were spent on misc, rev, and crypto.
 ---
 Anyways, I decided to write a good mix of writeups to hopefully help beginners understand some of the challenges.
 
+I was going to write an emojicode writeup for gotta crack them all but got too lazy as well :p
+
 Thanks for reading!
