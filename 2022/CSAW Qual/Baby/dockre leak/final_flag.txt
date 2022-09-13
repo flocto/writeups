@@ -1,0 +1,5 @@
+first part base64d in acbb.json
+second part in layer.tar, extract to chal/
+flag.txt second half
+
+flag{n3v3r_l34v3_53n5171v3_1nf0rm4710n_unpr073c73d_w17h1n_7h3_d0ck3rf1l3}
