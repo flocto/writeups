@@ -15,4 +15,6 @@ Anyways, I decided to write a good mix of writeups to hopefully help beginners u
 
 I was also going to write an emojicode writeup for gotta crack them all but got too lazy :p
 
+I recommend reading through the Baby challenges if you are somewhat new, but feel free to read whatever you like.
+
 Thanks for reading!
