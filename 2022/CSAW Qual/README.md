@@ -7,7 +7,7 @@ I ended up solving at least two challenges from each category except pwn (for ob
 but most of my efforts were spent on misc, rev, and crypto.
 
 (ended up solving all crypto challs which is the first time I've solved everything in one category!)
-(also I sweeped High School category but no prizes :sad:)
+(also I sweeped High School category but no prizes 😭)
 
 ---
 Anyways, I decided to write a good mix of writeups to hopefully help beginners understand some of the challenges.
