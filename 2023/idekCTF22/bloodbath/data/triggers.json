@@ -1,0 +1,6445 @@
+[
+    {
+        "id": 901,
+        "x": 15585,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 266,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 15675,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 267,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 15765,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 268,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 15855,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 269,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 15945,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 270,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16035,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 271,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16125,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 272,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16215,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 273,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16305,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 274,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16395,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 275,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16485,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 276,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16575,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 277,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16665,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 278,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16755,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 279,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16845,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 280,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 16935,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 281,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17025,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 282,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17115,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 283,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17205,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 284,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17295,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 285,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17385,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 286,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17475,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 287,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17565,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 288,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17655,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 289,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17745,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 290,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17835,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 291,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 17925,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 292,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18015,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 293,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18105,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 294,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18195,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 295,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18285,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 296,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18375,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 297,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18465,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 298,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18555,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 299,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18645,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 300,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18735,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 301,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18825,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 302,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 18915,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 303,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19005,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 304,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19095,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 305,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19185,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 306,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19275,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 307,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19365,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 308,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19455,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 309,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19545,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 310,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19635,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 311,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19725,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 312,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19815,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 313,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19905,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 314,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 19995,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 315,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20085,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 316,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20175,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 317,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20265,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 318,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20355,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 319,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20445,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 320,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20535,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 321,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20625,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 322,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20715,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 323,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20805,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 324,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20895,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 325,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 20985,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 326,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21075,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 327,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21165,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 328,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21255,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 329,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21345,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 330,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21435,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 331,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21525,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 332,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21615,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 333,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21705,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 334,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21795,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 335,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21885,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 336,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 21975,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 337,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22065,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 338,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22155,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 339,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22245,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 340,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22335,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 341,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22425,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 342,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22515,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 343,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22605,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 344,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22695,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 345,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22785,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 346,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22875,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 347,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 22965,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 348,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23055,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 349,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23145,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 350,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23235,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 351,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23325,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 352,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23415,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 353,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23505,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 354,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23595,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 355,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23685,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 356,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23775,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 357,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23865,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 358,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 23955,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 359,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24045,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 360,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24135,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 361,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24225,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 362,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24315,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 363,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24405,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 364,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24495,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 365,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24585,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 366,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24675,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 367,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24765,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 368,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24855,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 369,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 24945,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 370,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25035,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 371,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25125,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 372,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25215,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 373,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25305,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 374,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25395,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 375,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25485,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 376,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25575,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 377,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25665,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 378,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25755,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 379,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25845,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 380,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 25935,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 381,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26025,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 382,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26115,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 383,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26205,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 384,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26295,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 385,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26385,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 386,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26475,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 387,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26565,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 388,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26655,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 389,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26745,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 390,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26835,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 391,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 26925,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 392,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27015,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 393,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27105,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 394,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27195,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 395,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27285,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 396,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27375,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 397,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27465,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 398,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27555,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 399,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27645,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 400,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27735,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 401,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27825,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 402,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 27915,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 403,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28005,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 404,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28095,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 405,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28185,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 406,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28275,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 407,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28365,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 408,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28455,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 409,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28545,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 410,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28635,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 411,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28725,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 412,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28815,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 413,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28905,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 414,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 28995,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 415,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29085,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 416,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29175,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 417,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29265,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 418,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29355,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 419,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29445,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 420,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29535,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 421,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29625,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 422,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29715,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 423,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29805,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 424,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29895,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 425,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 29985,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 426,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30075,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 427,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30165,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 428,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30255,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 429,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30345,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 430,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30435,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 431,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30525,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 432,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30615,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 433,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30705,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 434,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30795,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 435,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30885,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 436,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 30975,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 437,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31065,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 438,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31155,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 439,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31245,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 440,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31335,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 441,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31425,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 442,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31515,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 443,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31605,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 444,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31695,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 445,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31785,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 446,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31875,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 447,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 31965,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 448,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32055,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 449,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32145,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 450,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32235,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 451,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32325,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 452,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32415,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 453,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32505,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 454,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32595,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 455,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32685,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 456,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32775,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 457,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32865,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 458,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 32955,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 459,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33045,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 460,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33135,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 461,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33225,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 462,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33315,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 463,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33405,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 464,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33495,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 465,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33585,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 466,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33675,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 467,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33765,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 468,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33855,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 469,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 33945,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 470,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34035,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 471,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34125,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 472,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34215,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 473,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34305,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 474,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34395,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 475,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34485,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 476,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34575,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 477,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34665,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 478,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34755,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 479,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34845,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 480,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 34935,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 481,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35025,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 482,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35115,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 483,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35205,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 484,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35295,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 485,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35385,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 486,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35475,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 487,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35565,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 488,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35655,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 489,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35745,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 490,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35835,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 491,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 35925,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 492,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36015,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 493,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36105,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 494,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36195,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 495,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36285,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 496,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36375,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 497,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36465,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 498,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36555,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 499,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36645,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 500,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36735,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 501,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36825,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 502,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 36915,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 503,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37005,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 504,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37095,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 505,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37185,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 506,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37275,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 507,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37365,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 508,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37455,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 509,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37545,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 510,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37635,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 511,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37725,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 512,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37815,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 513,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37905,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 514,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 37995,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 515,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38085,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 516,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38175,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 517,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38265,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 518,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38355,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 519,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38445,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 520,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38535,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 521,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38625,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 522,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38715,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 523,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38805,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 524,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38895,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 525,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 38985,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 526,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39075,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 527,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39165,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 528,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39255,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 529,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39345,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 530,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39435,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 531,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39525,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 532,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39615,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 533,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39705,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 534,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39795,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 535,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39885,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 536,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 39975,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 537,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40065,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 538,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40155,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 539,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40245,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 540,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40335,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 541,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40425,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 542,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40515,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 543,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40605,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 544,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40695,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 545,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40785,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 546,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40875,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 547,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 40965,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 548,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41055,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 549,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41145,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 550,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41235,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 551,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41325,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 552,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41415,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 553,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41505,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 554,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41595,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 555,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41685,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 556,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41775,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 557,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41865,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 558,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 41955,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 559,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42045,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 560,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42135,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 561,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42225,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 562,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42315,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 563,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42405,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 564,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42495,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 565,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42585,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 566,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42675,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 567,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42765,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 568,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42855,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 569,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 42945,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 570,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43035,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 571,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43125,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 572,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43215,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 573,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43305,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 574,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43395,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 575,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43485,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 576,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43575,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 577,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43665,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 578,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43755,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 579,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43845,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 580,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 43935,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 581,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44025,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 582,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44115,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 583,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44205,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 584,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44295,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 585,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44385,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 586,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44475,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 587,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44565,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 588,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44655,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 589,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44745,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 590,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44835,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 591,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 44925,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 592,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45015,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 593,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45105,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 594,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45195,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 595,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45285,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 596,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45375,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 597,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45465,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 598,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45555,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 599,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45645,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 600,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45735,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 601,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45825,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 602,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 45915,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 603,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46005,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 604,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46095,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 605,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46185,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 606,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46275,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 607,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46365,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 608,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46455,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 609,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46545,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 610,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46635,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 611,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46725,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 612,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46815,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 613,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46905,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 614,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 46995,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 615,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47085,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 616,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47175,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 617,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47265,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 618,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47355,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 619,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47445,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 620,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47535,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 621,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47625,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 622,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47715,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 623,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47805,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 624,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47895,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 625,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 47985,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 626,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48075,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 627,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48165,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 628,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48255,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 629,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48345,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 630,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48435,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 631,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48525,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 632,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48615,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 633,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48705,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 634,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48795,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 635,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48885,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 636,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 48975,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 637,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49065,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 638,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49155,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 639,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49245,
+        "y": -15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 640,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49335,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 641,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49425,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 642,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49515,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 643,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    },
+    {
+        "id": 901,
+        "x": 49605,
+        "y": 15,
+        "triggerGroups": [
+            5,
+            1001
+        ],
+        "scale": 0.5,
+        "touchTriggered": true,
+        "targetGroupID": 644,
+        "moveX": 0,
+        "moveY": 30,
+        "duration": 0,
+        "easing": "None",
+        "easingRate": 2
+    }
+]
