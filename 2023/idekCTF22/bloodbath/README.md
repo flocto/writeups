@@ -191,8 +191,10 @@ reach the ones that we set with the input bits, so that's how we reach the solut
 # Rererecursion
 With all of this information, it's time to write a script to recursively solve for a given collision trigger and either have it collide or not. I treated the block ID 1 collision triggers as switches to be pressed, the giant wall as toggleable values, and every movement trigger as a trigger for the toggleable values.
 
-So basically every `toggle` in the wall is moved up by a `trigger` on the ground. The `trigger` also moves up if any `toggle` has the same value as its `switch` whenever
-the player/the wall passes that `switch`. 
+So basically every `toggle` in the wall is moved up by a `trigger` on the ground. Each `trigger` also moves up if any `toggle` has the same value as its `switch` whenever
+the player/the wall passes that `switch`. If the `trigger` is above ground and moves up, we slide past the `trigger` and don't activate it, meaning the `toggle` stays in place and doesn't 
+move upward. If the `trigger` is below ground and moves up, we would then touch it, moving the `toggle`. Moving the `toggle` or having it stay in place could both either make it
+activate or not activate the `switch`.
 
 Before starting the script, I first parsed out all the useful parts of the level.
 ```py
@@ -234,7 +236,7 @@ print(len(triggers))
 ```
 I then dumped these into their own JSON files [switches.json](data/switches.json), [toggles.json](data/toggles.json), and [triggers.json](data/triggers.json) so I could easily access them later in the final script instead of having to parse the level every time.
 
-I also created these helper functions to improve readability and make creating/debugging easier.
+I also created these helper functions to improve readability and make creating/debugging easier. (yes I know my code is spaghetti)
 ```py
 def getSwitchFromToggleY(y):
     for s in switches:
