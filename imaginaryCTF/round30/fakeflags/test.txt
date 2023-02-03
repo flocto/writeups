@@ -1,0 +1,3 @@
+$ ls
+flag.txt
+$ cat flag.txt

@@ -1,0 +1,1 @@
+print(bin(255 & 0xfc))
