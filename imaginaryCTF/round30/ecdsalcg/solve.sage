@@ -44,6 +44,8 @@ r1, r2, r3, r4 = [s[0] for s in sigs]
 s1, s2, s3, s4 = [s[1] for s in sigs]
 m1, m2, m3, m4 = [H(m) for m in msgs]
 
+
+# https://github.com/pcw109550/write-up/tree/master/2019/DEFCON/tania
 def Babai_closest_vector(M, G, target):
     # Babai's Nearest Plane algorithm
     small = target

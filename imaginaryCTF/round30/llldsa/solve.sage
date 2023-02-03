@@ -1,10 +1,9 @@
-import olll
+from Crypto.Cipher import AES
+from Crypto.Util.number import *
 from hashlib import sha256
-
 
 def H(msg):
     return int.from_bytes(sha256(msg).digest(), 'big')
-
 
 p = 4069937001870309288805965623396322384563730096882100588604666667233844487430163449354230919
 g = 761690225239056989296458587964224591636809672476899126096331568501041989927462775870169890
@@ -23,13 +22,9 @@ for i in range(len(ms)):
     m = ms[i]
     r, s = sigs[i]
 
-    # t = r * pow(s, -1, q) % q
-    # u = -H(m) * pow(s, -1, q) % q
+    t = r * pow(s, -1, q) % q
+    u = -H(m) * pow(s, -1, q) % q
     # assert t * pow(u, -1, q) % q == -r * pow(H(m), -1, q) % q
-    t = r / s
-    u = -H(m) / s
-
-    # polynomial looks like
     # xt - u = k
     # k is bounded q << 100 -> we know last 100 bits of k
 
@@ -41,8 +36,8 @@ for i in range(len(msgs)):
     mat[i] += [0] * 2  # padding for sT and sU
 
 ts, us = [m[1] for m in msgs], [m[2] for m in msgs]
-ts += [1/(2**200), 0]  # sT
-us += [0, q/(2**200)]  # sU
+ts += [bound/q, 0]  # sT
+us += [0, bound]  # sU
 mat += [ts, us]
 
 mat = matrix(QQ, mat)
@@ -50,3 +45,21 @@ show(mat)
 mat = mat.LLL()
 show(mat)
 
+
+k = 0
+for row in mat.rows():
+    if row[-1] == bound:
+        k = -row[0]
+        break
+
+r, s = sigs[0]
+h = H(ms[0])
+
+s = (s - h / k) % q
+x = (s * k / r) % q
+assert pow(g, x, p) == y
+
+aes = AES.new(long_to_bytes(x)[:16], AES.MODE_CBC, b'\x00' * 16)
+c = bytes.fromhex(c)
+
+print(aes.decrypt(c))

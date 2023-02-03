@@ -16,4 +16,7 @@ caesar = lambda s, key: bytes(alphabet[(c+key+i)%len(alphabet)] for i, c in enum
 enc = b'~y,~5/$&1})4!:,>%>-(.::SB.ED727_`T'
 for key in range(0, 127-32):
     dec = lambda s: bytes(alphabet[(c-key-i)%len(alphabet)] for i, c in enumerate(s))
-    print(dec(enc), key)
+    # print(dec(enc), key)
+    if b'ictf{' in dec(enc):
+        print(dec(enc), key)
+        break
