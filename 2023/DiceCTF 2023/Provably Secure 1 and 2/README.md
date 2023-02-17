@@ -1,5 +1,5 @@
 # Provably Secure 1 and 2
-Video writeup for these two challenges.
+[Video writeup](https://www.youtube.com/watch?v=vAcX--GornA&ab_channel=flocto) for these two challenges.
 Created using [Motion Canvas](https://motioncanvas.io/)
 
 ## Solutions
